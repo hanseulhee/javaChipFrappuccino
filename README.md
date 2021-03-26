@@ -54,7 +54,12 @@
   --i : 먼저 - <br>
   i-- : 나중 - 
 
+- [BOJ 8393](../master/src/boj_8393.java)
 
+  출력 제한이 1초인 문제, BufferedWriter 사용
+
+
+#### 21.03.27
 
   
 

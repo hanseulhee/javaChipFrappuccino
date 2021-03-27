@@ -54,9 +54,14 @@
   --i : 먼저 - <br>
   i-- : 나중 - 
 
-- [BOJ 8393](../master/src/boj_8393.java)
+- [BOJ 15552](../master/src/boj_15552.java)
 
-  출력 제한이 1초인 문제, BufferedWriter 사용
+  출력 제한이 1초인 문제, BufferedReader와 BufferedWriter 사용 <br>
+  BufferedReader: Scanner와 유사 <br>
+  Bufferedwriter: System.out.println();과 유사 <br>
+
+  System.out.println() 을 각 테스트 케이스마다 해주면 시간초과가 되기 때문에 Bufferedwriter사용함
+
 
 
 #### 21.03.27
@@ -64,6 +69,10 @@
 - [BOJ 2440](../master/src/boj_2440.java)
 
   n부터 순서대로 출력되는 별찍기 문제, for문 사용
+  
+
+
+
   
   
 

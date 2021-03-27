@@ -21,7 +21,7 @@ public class boj_15552 {
         }
 
         br.close();
-        bw.flush();
+        bw.flush(); //남아있는 데이터를 모두 출력함
         bw.close();
     }
 }

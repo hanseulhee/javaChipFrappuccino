@@ -14,7 +14,6 @@ public class boj_4101 {
         }else if(first == second){
             System.out.print("No");
         }else if(first == 0 && second == 0){
-            break;
         }
 
     }
